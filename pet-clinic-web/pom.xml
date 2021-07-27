@@ -4,7 +4,7 @@
   <parent>
     <artifactId>pet-clinic</artifactId>
     <groupId>com.kashish</groupId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
   </parent>
 
   
@@ -25,7 +25,7 @@
   <dependency>
   <artifactId>pet-clinic-data</artifactId>
     <groupId>com.kashish</groupId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
   </dependency>
     <dependency>
       <groupId>junit</groupId>
