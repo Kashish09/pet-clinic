@@ -4,7 +4,7 @@
   <parent>
     <artifactId>pet-clinic</artifactId>
     <groupId>com.kashish</groupId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
   </parent>
   
   <artifactId>pet-clinic-data</artifactId>
